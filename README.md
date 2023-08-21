@@ -28,10 +28,10 @@ If you are developing a production application, we recommend updating the config
 
 ### Tools
 
-[x] date-fns
-[x] phosphor-icons-react
-[x] contextAPI
-[ ] reducer
-[x] react-router-dom
-[x] react-hook-form
+- [x] date-fns
+- [x] phosphor-icons-react
+- [x] contextAPI
+- [ ] reducer
+- [x] react-router-dom
+- [x] react-hook-form
 
